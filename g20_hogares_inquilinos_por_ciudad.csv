@@ -1,0 +1,129 @@
+ciudad,anio,pct_inquilinos,pct_propietarios
+Bahía Blanca,1991,18.66,68.67
+Bahía Blanca,2001,16.86,72.73
+Bahía Blanca,2010,23.66,67.42
+Bahía Blanca,2022,27.97,61.26
+La Plata,1991,14.68,68.37
+La Plata,2001,14.81,75.75
+La Plata,2010,20.46,71.05
+La Plata,2022,26.21,62.83
+Mar del Plata,1991,18.14,66.99
+Mar del Plata,2001,14.48,73.18
+Mar del Plata,2010,20.46,68.61
+Mar del Plata,2022,24.84,62.27
+CABA,1991,19.7,69.65
+CABA,2001,22.22,68.96
+CABA,2010,29.86,62.49
+CABA,2022,36.81,52.5
+Córdoba (capital),1991,NA,NA
+Córdoba (capital),2001,20.42,66.29
+Córdoba (capital),2010,26.77,62.78
+Córdoba (capital),2022,34.31,52.91
+Paraná,1991,11.87,71.99
+Paraná,2001,10.93,77.42
+Paraná,2010,16.32,74
+Paraná,2022,21.45,66.11
+Rosario,1991,NA,NA
+Rosario,2001,12,75.86
+Rosario,2010,17.17,72.57
+Rosario,2022,24.19,62.78
+Santa Fe (ciudad),1991,11.06,69.49
+Santa Fe (ciudad),2001,11.21,75.66
+Santa Fe (ciudad),2010,16.39,73.42
+Santa Fe (ciudad),2022,21.46,65.45
+Mendoza (capital),1991,22.02,63.39
+Mendoza (capital),2001,22.7,65.77
+Mendoza (capital),2010,32.51,57.52
+Mendoza (capital),2022,38.55,48.65
+San Juan,1991,14.9,67.45
+San Juan,2001,14.22,70.57
+San Juan,2010,22.26,64.4
+San Juan,2022,31.68,52.85
+San Luis,1991,14.85,63.58
+San Luis,2001,11.37,77.66
+San Luis,2010,17.87,71.98
+San Luis,2022,23.48,62.39
+Corrientes,1991,10.83,71.46
+Corrientes,2001,11.42,75.94
+Corrientes,2010,16.55,73
+Corrientes,2022,20.44,66.19
+Formosa,1991,7.46,73.96
+Formosa,2001,6.86,78.85
+Formosa,2010,11.53,72.88
+Formosa,2022,16.63,68.99
+Posadas,1991,13.24,69.54
+Posadas,2001,10.6,76.08
+Posadas,2010,14.3,75.23
+Posadas,2022,20.55,65.95
+Resistencia,1991,9.4,73.38
+Resistencia,2001,7.5,79.24
+Resistencia,2010,10.25,78.43
+Resistencia,2022,14.24,72.31
+Catamarca,1991,7.68,76.16
+Catamarca,2001,7.38,82.26
+Catamarca,2010,11.04,81.06
+Catamarca,2022,14.77,75.28
+La Rioja,1991,8.98,72.22
+La Rioja,2001,8.36,81.18
+La Rioja,2010,14.98,75.28
+La Rioja,2022,19.79,69.37
+Salta,1991,13.34,69.4
+Salta,2001,12.19,73.31
+Salta,2010,16.21,71.79
+Salta,2022,20.25,65.3
+San Salvador de Jujuy,1991,11.37,70.94
+San Salvador de Jujuy,2001,10.58,76.21
+San Salvador de Jujuy,2010,13.42,73.98
+San Salvador de Jujuy,2022,15.55,70.23
+Santiago del Estero,1991,5.95,79.02
+Santiago del Estero,2001,4.41,87.19
+Santiago del Estero,2010,5.67,87.17
+Santiago del Estero,2022,10.11,78.73
+Tucumán,1991,10.75,70.9
+Tucumán,2001,9.85,76.53
+Tucumán,2010,14.95,72.15
+Tucumán,2022,22.02,61.95
+Bariloche,1991,20.57,61.37
+Bariloche,2001,16.13,70.58
+Bariloche,2010,22.19,67.58
+Bariloche,2022,26.01,60.5
+Comodoro Rivadavia,1991,16.62,65.23
+Comodoro Rivadavia,2001,14.73,72.53
+Comodoro Rivadavia,2010,20.97,67.69
+Comodoro Rivadavia,2022,25.71,60.45
+General Roca,1991,14.39,61.41
+General Roca,2001,11.99,69.23
+General Roca,2010,17.83,67.32
+General Roca,2022,23.9,62.4
+Neuquén (ciudad),1991,14.67,67.68
+Neuquén (ciudad),2001,13.91,73.4
+Neuquén (ciudad),2010,19.37,69.9
+Neuquén (ciudad),2022,25.12,62.42
+Puerto Madryn,1991,18.93,60.93
+Puerto Madryn,2001,17.91,70.22
+Puerto Madryn,2010,26.01,62.91
+Puerto Madryn,2022,28.89,60.07
+Rawson / Trelew,1991,15.32,67.58
+Rawson / Trelew,2001,11.6,76.2
+Rawson / Trelew,2010,18.02,70.11
+Rawson / Trelew,2022,23.81,62.82
+Río Gallegos,1991,19.03,61.39
+Río Gallegos,2001,19.58,66.11
+Río Gallegos,2010,26.46,62.19
+Río Gallegos,2022,29.94,57.66
+Río Grande,1991,14.58,67.37
+Río Grande,2001,15.38,71.59
+Río Grande,2010,22.86,69.26
+Río Grande,2022,29.37,59.14
+Santa Rosa,1991,14.22,71.3
+Santa Rosa,2001,15.21,74.42
+Santa Rosa,2010,22.98,68.61
+Santa Rosa,2022,28,60.59
+Ushuaia,1991,17.22,61.69
+Ushuaia,2001,16.37,72.73
+Ushuaia,2010,28.28,61.11
+Ushuaia,2022,36.01,50.76
+Viedma,1991,12.99,64.7
+Viedma,2001,12.87,73.12
+Viedma,2010,18.02,70.3
+Viedma,2022,26.87,59.1
