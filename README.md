@@ -1,5 +1,7 @@
 # Datos de una ciudad en transformación
 
+Estos son los datos de la plataforma de visualización de datos: https://scrolly.cesba.gob.ar/ 
+
 ## Demografía y fecundidad
 
 - [**`g1_esperanza_de_vida_al_nacer.csv`**](https://github.com/CESBA-Fundar/data/blob/main/g1_esperanza_de_vida_al_nacer.csv) — Esperanza de vida al nacer en CABA por sexo, año y fuente (IDECBA, INDEC PAD, proyecciones INDEC), desde 1991 hasta 2035.
